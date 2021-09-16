@@ -1,1 +1,1 @@
-(https://data-make.tistory.com/123)
+[map, apply, applymap](https://data-make.tistory.com/123)
