@@ -1,0 +1,7 @@
+일반적으로 formatting은 3가지로 나눠지는 듯하다.
+
+1. % - format 
+2. '{}'.format()
+3. f-strings
+
+[string formatting](https://blockdmask.tistory.com/424)
